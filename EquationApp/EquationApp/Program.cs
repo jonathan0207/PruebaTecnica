@@ -61,10 +61,10 @@ namespace EcuacionCuadratica
                 }
 
 
-                Console.Write("¿Quieres realizar un nuevo calculo? (Si/No): ");
+                Console.Write("¿Quieres realizar un nuevo calculo? (s/n): ");
                 continuar = Console.ReadLine()[0];
             }
-            while (continuar != 'n' || continuar != 'N' || continuar != ' ');
+            while (continuar != 'n' && continuar != 'N' && continuar != ' ');
             Console.WriteLine("HASTA PRONTO");
         }
 
