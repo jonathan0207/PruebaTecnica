@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EquationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57e0fc7ed6b07d69dc78f255f0eaeda7744714f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e8b5603669787c018723aa77c3fd9acb37427e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EquationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EquationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
