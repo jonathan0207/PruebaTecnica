@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "ConnectionSQL": "server=prueba-tecnica.cloau42485w9.us-east-1.rds.amazonaws.com; Database=prueba-tecnica; User Id=admin; Password=Prueba12345;Trusted_Connection=False;providerName=System.Data.SqlClient"
+  
+  }
+  
+}
