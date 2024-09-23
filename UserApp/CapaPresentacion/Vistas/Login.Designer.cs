@@ -62,6 +62,7 @@
             RegisterButton.TabIndex = 2;
             RegisterButton.Text = "Registrarse\r\n";
             RegisterButton.UseVisualStyleBackColor = true;
+            RegisterButton.Click += RegisterButton_Click;
             // 
             // LoginButton
             // 
@@ -90,8 +91,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(435, 302);
-            Controls.Add(textBoxPassword);
+            ClientSize = new Size(593, 475);
             Controls.Add(textBoxUser);
             Controls.Add(LoginButton);
             Controls.Add(RegisterButton);
@@ -99,6 +99,7 @@
             Controls.Add(User);
             Name = "Login";
             Text = "Login";
+            Load += Login_Load;
             ResumeLayout(false);
             PerformLayout();
         }
