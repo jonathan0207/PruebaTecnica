@@ -1,3 +1,104 @@
-.vs/
-obj/
+# Compiled binary
 bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config
+.vscode/
+.idea/
+.ionide/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio Code workspace history
+.history/
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio setup
+.vs/
+
+# Recycle Bin used by Visual Studio Code
+.vscode/.vscode~/
+
+# Uncomment if you have tasks that create the project lock file
+# project.lock.json
+
+# DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop config
+StyleCop.Cache
+
+# Auto generated VS Code files
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Log and database files
+*.log
+*.ldf
+*.mdf
+
+# Package directories
+**/node_modules/
+**/bower_components/
+
+# Backup & Report files
+*_Report.xml
+*_Schema.xml
+*.cache
+*.bak
+*.swp
+*.orig
+*.tmp
+
+# nuget packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# DotNet CLI files
+project.lock.json
+project.fragment.lock.json
+artifacts/
